@@ -22,7 +22,7 @@ Applied machine learning to predict cardiovascular disease using the `cardio_tra
 
 ## Results
 - ANN achieved ~80% recall on CVD-positive cases while maintaining balanced precision  
-- Demonstrated methodological rigour equivalent to doctoral-level machine learning research  
+- Compared baseline and modern classifiers under stratified cross-validation; analysed precision/recall tradeoffs for clinical screening use 
 - Methods transferable to healthcare analytics, predictive maintenance, and anomaly detection  
 
 ---
